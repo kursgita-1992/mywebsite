@@ -1,0 +1,1 @@
+This is my breand new projetc versioned in Git
